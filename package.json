@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Yushkevich-A-A/webpack/issues"
   },
-  "homepage": "https://github.com/Yushkevich-A-A/webpack#readme"
+  "homepage": "https://github.com/Yushkevich-A-A/webpack#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
 }
